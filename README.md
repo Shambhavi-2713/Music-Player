@@ -1,0 +1,1 @@
+The Music Player project aims to create a simple command-line music player using Python. The player allows users to play and stop audio tracks, as well as open playlists present on device. It provides basic functionality for organizing and enjoying a collection of music files.
